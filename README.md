@@ -6,7 +6,7 @@ El problema: si cambias el set activo del canal al de Halloween, desaparecen tod
 
 ## Instalación
 
-1. Instala la extensión [Tampermonkey](https://www.tampermonkey.net/) en tu navegador.
+1. Instala [Violentmonkey](https://violentmonkey.github.io/), un gestor de userscripts de código abierto (Chrome, Brave, Edge, Firefox…). También vale [Tampermonkey](https://www.tampermonkey.net/) si ya lo usas.
 2. Abre este enlace y pulsa **Instalar**:
    **[Instalar el script](https://github.com/TU_USUARIO/7tv-set-temporada/raw/main/7tv-set-temporada.user.js)**
 3. Entra en [7tv.app](https://7tv.app) con tu sesión iniciada. Aparecerá un botón **🎃 Set de temporada** abajo a la derecha.
