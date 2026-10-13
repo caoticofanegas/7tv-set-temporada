@@ -4,6 +4,9 @@ Userscript para [7tv.app](https://7tv.app) que crea un set de emotes de temporad
 
 El problema: si cambias el set activo del canal al de Halloween, desaparecen todos los emotes que solo estaban en el normal. Este script copia el set normal en el de temporada y, opcionalmente, sustituye por nombre los emotes que tienen versión especial. El chat sigue escribiendo `Pog` y ve el `Pog` de Halloween; todo lo demás sigue igual.
 
+<img width="490" height="479" alt="imagen" src="https://github.com/user-attachments/assets/406c624f-659b-4153-9cd6-5bfe82470b84" />
+
+
 ## Instalación
 
 1. Instala [Violentmonkey](https://violentmonkey.github.io/), un gestor de userscripts de código abierto (Chrome, Brave, Edge, Firefox…). También vale [Tampermonkey](https://www.tampermonkey.net/) si ya lo usas.
